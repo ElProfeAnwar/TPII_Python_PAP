@@ -1,0 +1,16 @@
+Introducción a la Gestión de Archivos en Python
+
+Definición de archivos y su importancia en la programación:
+
+En el contexto de la programación, un archivo es un conjunto de datos que se almacenan de forma permanente en un dispositivo de almacenamiento secundario, como un disco duro, una unidad USB o una tarjeta de memoria. Los archivos son fundamentales para la gestión y manipulación de información en cualquier programa o aplicación. Permiten guardar datos de manera persistente, lo que significa que los datos permanecen disponibles incluso después de que el programa se detenga o se cierre.
+La importancia de los archivos en la programación radica en que permiten la lectura y escritura de información, lo que facilita la interacción con el usuario y el almacenamiento de datos en el sistema. Los archivos son esenciales para realizar tareas como guardar configuraciones, leer y escribir registros, realizar operaciones de entrada/salida y gestionar datos a largo plazo. Sin archivos, sería difícil o incluso imposible retener información entre sesiones de ejecución de un programa.
+
+Tipos de archivos: archivos de texto, archivos binarios, etc.:
+
+En Python, los archivos se pueden clasificar en dos tipos principales: archivos de texto y archivos binarios.
+
+1. Archivos de Texto:
+   Los archivos de texto contienen datos legibles para los humanos, generalmente en forma de caracteres y líneas de texto. Estos archivos se componen de texto simple codificado en un conjunto de caracteres, como ASCII o UTF-8. Algunos ejemplos de archivos de texto son archivos .txt, .csv (valores separados por comas), .xml (lenguaje de marcado extensible), entre otros.
+   Los archivos de texto son adecuados para almacenar y leer información que no requiere una estructura compleja, como configuraciones, mensajes de registro, documentos de texto, etc. En Python, la gestión de archivos de texto es relativamente sencilla, ya que se pueden leer o escribir línea por línea o en su totalidad.
+
+2. Archivos Binarios:
