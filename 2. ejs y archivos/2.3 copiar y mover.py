@@ -10,7 +10,5 @@ def copiar_archivo(origen, destino):
         print("Error al copiar el archivo:", str(e))
 
 # Uso del método para copiar un archivo
-copiar_archivo('archivo_origen.txt', 'nuevo_directorio/archivo_destino.txt')
-
-#crear archivo_origen / nuevo_directorio /
+copiar_archivo('E:\Directorio\origen.txt', 'E:\Directorio\dirnuevo\destino.txt')
 
