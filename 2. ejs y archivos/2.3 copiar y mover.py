@@ -10,5 +10,7 @@ def copiar_archivo(origen, destino):
         print("Error al copiar el archivo:", str(e))
 
 # Uso del método para copiar un archivo
+# la carpeta dirnuevo, debe ser creada previamente
+#\a \n en la ruta del archivo, da errores, evitar nombrar carpeta y archivos con esas letras
 copiar_archivo('E:\Directorio\origen.txt', 'E:\Directorio\dirnuevo\destino.txt')
 
