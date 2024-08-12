@@ -8,7 +8,7 @@ suma_numeros(2, 4, 6)
 suma_numeros(1, 3, 5, 7, 9)
 
 # Función con número variable de argumentos con nombre
-def datos_personales(kwargs):
+def datos_personales(**kwargs):
     print("Datos personales:")
     for clave, valor in kwargs.items():
         print(f"{clave}: {valor}")
