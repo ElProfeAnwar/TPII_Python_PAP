@@ -43,6 +43,26 @@ estudiante1.agregar_nota(6.0)
 estudiante1.agregar_nota(5.5)
 estudiante1.mostrar_info()
 
+
+
+"""  Explicación:
+Constructor __init__: Inicializa los atributos nombre, edad, numero_estudiante, 
+una lista para las notas y el promedio.
+
+Método agregar_nota: Permite añadir una nota válida (de 1.0 a 7.0) y 
+llama al método calcular_promedio.
+
+Método calcular_promedio: Calcula el promedio de las notas almacenadas.
+
+Métodos para cambiar el nombre y la edad: Permiten modificar el nombre 
+y la edad del estudiante.
+
+Método mostrar_informacion: Imprime toda la información del estudiante.
+Este código te permite gestionar la información de un estudiante 
+y calcular su promedio de notas 
+"""
+
+
 # Cambiar nombre y edad
 estudiante1.cambiar_nombre("Juan P.")
 estudiante1.cambiar_edad(17)
