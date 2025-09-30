@@ -1,0 +1,10 @@
+Magnitud: 4.2 - Región: Valparaíso - Estado: perceptible
+Magnitud: 3.5 - Región: Coquimbo - Estado: no perceptible
+Magnitud: 5.0 - Región: Valparaíso - Estado: perceptible
+Magnitud: 2.9 - Región: Biobío - Estado: no perceptible
+Magnitud: 6.1 - Región: Antofagasta - Estado: perceptible
+Magnitud: 3.0 - Región: Biobío - Estado: no perceptible
+Magnitud: 4.5 - Región: Antofagasta - Estado: perceptible
+Magnitud: 5.5 - Región: Coquimbo - Estado: perceptible
+Magnitud: 4.1 - Región: Metropolitana - Estado: perceptible
+Magnitud: 2.5 - Región: Valparaíso - Estado: no perceptible
